@@ -1,0 +1,8 @@
+# Librerias de Python para la instancia EC2 (ingesta + app Streamlit)
+# Instalar en un entorno virtual:  python3 -m venv ~/venv && ~/venv/bin/pip install -r requirements.txt
+boto3
+pymysql
+requests
+pandas
+matplotlib
+streamlit>=1.30
